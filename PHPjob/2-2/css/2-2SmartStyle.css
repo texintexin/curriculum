@@ -1,2 +1,116 @@
 @media screen and (max-width: 479px) {
+    
+    .Header{
+        width: 200px;
+        height: 200px;
+        background-color: #141f40;
+    }
+    
+    .Box4{
+        width: 60px;
+        height: 180px;
+        background-color: white;
+        position: relative;
+        top: 10px; right: 70px;
+    }
+    
+    .Empty2{
+        display: block;
+    }
+    
+    .Box1{
+        width: 40px;
+        height: 40px;
+        background-color: #a9004b;
+        position: relative;
+        top: 15px; left: 10px;
+    }
+    
+    .Box2{
+        width: 40px;
+        height: 40px;
+        background-color: #a9004b;
+        position: relative;
+        top: 30px; left: 10px;
+    }
+    
+    .Box3{
+        width: 40px;
+        height: 40px;
+        background-color: #a9004b;
+        position: relative;
+        top: 45px; left: 10px;
+    }
+    
+    .Main{
+    
+    }
+    
+    .Left{
+        width: 200px;
+        height: 100px;
+        background-color: #80bfa8;
+        float: none;    
+    }
+    
+    .Right{
+        width: 200px;
+        height: 200px;
+        background-color: #8c2727;
+        float: none;    
+    }
+    
+    .Footer{
+        width: 200px;
+        height: 100px;
+        background-color: #d98d30;
+    }
+    
+    .OblongBox1{
+        width: 140px;
+        height: 40px;
+        background-color: #ff863f;
+        position: relative;
+        top: 5px; left:5px;
+    }
+    
+    .OblongBox2{
+        width: 140px;
+        height: 40px;
+        background-color: #ff863f;
+        position: relative;
+        top: 5px; left:5px;
+    }
+    
+    .OblongBox3{
+        width: 140px;
+        height: 40px;
+        background-color: #ff863f;
+        position: relative;
+        top: 5px; left:5px;
+    }
+    
+    .OblongBox4{
+        width: 150px;
+        height: 50px;
+        background-color: white;
+        position: relative;
+        top: 20px; left:30px;
+    }
+    
+    .OblongBox5{
+        width: 150px;
+        height: 50px;
+        background-color: white;
+        position: relative;
+        top: 25px; left:30px;
+    }
+    
+    .OblongBox6{
+        width: 150px;
+        height: 50px;
+        background-color: white;
+        position: relative;
+        top: 30px; left:30px;
+    }
 }
